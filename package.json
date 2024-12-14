@@ -1,0 +1,20 @@
+{
+  "name": "LeXcZ",
+  "version": "1.0",
+  "description": "Script Bot Telegram",
+  "main": "start.js",
+  "scripts": {
+    "start": "node start.js"
+  },
+  "author": "LeXcZ",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "fs": "latest",
+    "node-telegram-bot-api": "^0.64.0",
+    "path": "latest",
+    "ssh2": "^1.15.0",
+    "yt-search": "^2.12.1",
+    "ytdl-core": "^4.11.5"
+  }
+}
